@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Kiit-sgpa-calculator/static/css/main.073c9b0a.css",
+    "main.js": "/Kiit-sgpa-calculator/static/js/main.c146eda8.js",
+    "static/js/787.142da1d4.chunk.js": "/Kiit-sgpa-calculator/static/js/787.142da1d4.chunk.js",
+    "index.html": "/Kiit-sgpa-calculator/index.html",
+    "main.073c9b0a.css.map": "/Kiit-sgpa-calculator/static/css/main.073c9b0a.css.map",
+    "main.c146eda8.js.map": "/Kiit-sgpa-calculator/static/js/main.c146eda8.js.map",
+    "787.142da1d4.chunk.js.map": "/Kiit-sgpa-calculator/static/js/787.142da1d4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.c146eda8.js"
+  ]
+}
